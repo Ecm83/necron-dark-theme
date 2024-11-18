@@ -1,9 +1,13 @@
 {
-  "name": "necron-dark-theme",
-  "displayName": "Necron Dark Theme",
+  "name": "necron-dark-warhammer-theme",
+  "displayName": "Necron Dark - Warhammer Theme",
   "description": "A dark theme inspired by the Necrons from Warhammer 40,000. Designed for long coding sessions.",
-  "version": "1.0.0",
-  "publisher": "your-publisher-name",
+  "version": "1.0.1",
+  "publisher": "Ecm83",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ecm83/necron-dark-theme.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },

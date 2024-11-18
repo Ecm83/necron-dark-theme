@@ -9,7 +9,7 @@ A dark theme inspired by the Necrons from Warhammer 40,000. This theme is design
 
 ## Preview
 
-![Preview](https://via.placeholder.com/800x400.png)
+![Preview](assets/preview.png)
 
 ## Features
 
