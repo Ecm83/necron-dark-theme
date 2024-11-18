@@ -1,0 +1,71 @@
+{
+  "name": "Necron Dark",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0F0F0F",
+    "editor.foreground": "#C8C8C8",
+    "editorCursor.foreground": "#76CC76",
+    "editor.lineHighlightBackground": "#1C1C1C",
+    "editor.selectionBackground": "#2D6E2D",
+    "editor.wordHighlightBackground": "#3A533A",
+    "sideBar.background": "#181818",
+    "statusBar.background": "#202020",
+    "statusBar.foreground": "#76CC76",
+    "activityBar.background": "#181818",
+    "tab.activeBackground": "#202020",
+    "tab.inactiveBackground": "#1A1A1A",
+    "tab.border": "#282828"
+  },
+  "tokenColors": [
+    {
+      "scope": ["keyword", "storage.type"],
+      "settings": {
+        "foreground": "#76CC76"
+      }
+    },
+    {
+      "scope": ["string", "variable.other.readwrite"],
+      "settings": {
+        "foreground": "#A0ECA0"
+      }
+    },
+    {
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#6C846C",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#76AADD"
+      }
+    },
+    {
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#88D8FF"
+      }
+    },
+    {
+      "scope": ["variable"],
+      "settings": {
+        "foreground": "#80B0FF"
+      }
+    },
+    {
+      "scope": ["invalid"],
+      "settings": {
+        "foreground": "#FF6666",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["warning"],
+      "settings": {
+        "foreground": "#FFC94D"
+      }
+    }
+  ]
+}

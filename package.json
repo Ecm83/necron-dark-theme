@@ -1,0 +1,22 @@
+{
+  "name": "necron-dark-theme",
+  "displayName": "Necron Dark Theme",
+  "description": "A dark theme inspired by the Necrons from Warhammer 40,000. Designed for long coding sessions.",
+  "version": "1.0.0",
+  "publisher": "your-publisher-name",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Necron Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Necron-Dark-theme.json"
+      }
+    ]
+  }
+}
